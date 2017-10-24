@@ -1,9 +1,23 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-    background-color: b3cfff;
+    background-color: #b3cfff;
+}
+section {
+    padding:4em 0;
 }
 h1, h2 {
     color: navy;
-font-family: Arial, sans-serif;}
-p {color: black;font-family: Calibri;}
-nav {color: black;font-family: Arial Black;}
-ul {font-family: Calibri;}
+    font-family: Arial, sans-serif;
+}
+p {
+    color: black;
+    font-family: Calibri;
+}
+nav {
+    color: black;
+    font-family: Arial Black;
+}
+ul {
+    font-family: Calibri;
+    padding-left: 1.25em;
+}
