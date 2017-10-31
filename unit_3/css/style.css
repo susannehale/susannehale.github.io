@@ -1,13 +1,12 @@
 +* { margin:0; padding:0; box-sizing:border-box; }
 body {
--    background-color: b3cfff;
-+    background-color: #b3cfff;
+-    background-color: #b3cfff;
 +}
 +section {
 +    padding:4em 0;
  }
  h1, h2 {
-     color: black;
+    color: black;
 	font-family: @import url('https://fonts.googleapis.com/css?family=Roboto');
 }
 -p {
